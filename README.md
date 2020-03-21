@@ -1,4 +1,4 @@
-# FHIR_Reporting
+# FHIR_ReportingData
 An API for generating data for reports and an application which generates graphs to be used in reports using the data provided by the API.
 
 The API is the ReportDataAPI.py file and the application for generating graphs is the ReportGraphs.py file.
